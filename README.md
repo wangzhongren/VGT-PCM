@@ -14,7 +14,8 @@
 
 这是模型在 Layer 8 形成的拓扑结构图，清晰展示了逻辑是如何从乱码中“结晶”出来的：
 
-![Logical Manifold Distribution](image_6d13fe.png)
+![Logical Manifold Distribution](PCM_Figure_1.png)
+![Logical Manifold Distribution](PCM_Figure_2.png)
 
 > **图注**：绿色/蓝色虚线代表刚性逻辑段，红色实线代表逻辑断层（进位边界），红点代表自动聚类的医学语义。
 
