@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
+[![Paper](https://img.shields.io/badge/Paper-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.18410092)
 
 这是论文 **"Data-Efficient Logical Learning via Piecewise Constrained Geometric Manifolds"** 的官方开源实现。
 
